@@ -1,0 +1,10 @@
+Girilen iki sayının arasındaki sayıların ortalamasını bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan 1. sayıyı iste
+# kullanıcıdan 2. sayıyı iste
+# kullanıcının girdiği iki sayıların arasından
+# toplam la arasındaki sayıları eşitle 
+# ortalamasını çıkar 

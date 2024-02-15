@@ -1,0 +1,13 @@
+Bir üçgenin iç açıları toplamı 180 derecedir. Kullanıcının girdiği üç açı değerine göre “Bu bir üçgendir.” 
+ya da “Bu bir üçgen değildir.” çıktıları veren kodu yazınız. 
+
+
+ALGORİTMA:
+value = int(input("Birinci değeri giriniz :"))
+value2 = int(input("Ikinci değeri giriniz :"))
+value3 = int(input("Üçüncü değeri giriniz :"))
+if value + value2 + value3
+print("Bu bir üçgendir.")
+else:
+print("Bu bir üçgen değildir.")
+

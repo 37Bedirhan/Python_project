@@ -1,0 +1,2 @@
+# en sevdiğin üç meyveyi liste haline getir
+# ve bunu ekrana yazdır

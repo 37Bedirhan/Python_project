@@ -1,0 +1,9 @@
+Elemanları sırasıyla sanat, sanat, içindir olan listeyi sanat, toplum, içindir şeklinde değiştiriniz.
+
+
+
+ALGORİTMA:
+
+# sanat sanat içindir diye cümle oluştur
+# sanat kelimesini sil
+# toplum kelimesini ekle

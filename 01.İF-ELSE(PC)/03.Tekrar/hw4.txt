@@ -1,0 +1,13 @@
+Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve
+altıysa “Ödenecek miktar=…. TL”; 200 TL’yi geçerse %25 indirim yaparak
+“Ödenecek miktar, indirimden sonra ….. TL’dir.” çıktılarını veren kodu yazınız.
+
+
+ALGORİTMA :
+
+# kullanıcıdan iki ürün fiyatı iste
+# eğer == 200 ve altıysa
+# iki ürünün toplamını yazdır
+# eğer > 200 se
+# iki ürünün toplamının /4 ü
+# normalde ödenecek tutar , indirimden sonra ödenecek tutar diye yazdır

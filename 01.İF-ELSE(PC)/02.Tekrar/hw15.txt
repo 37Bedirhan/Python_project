@@ -1,0 +1,13 @@
+Kullanıcıya sinema ya da tiyatro tercihi sorulsun. Sinema izlemek için 15 TL,
+tiyatro için 10 TL ödenmesi gerekmedir.Öğrencilere %50
+ indirim yapıldığı düşünülerek öğrenci ise indirim yapılan; öğrenci değilse indirimsiz
+  tutarı hesaplayarak ekrana yazdıran kodu yazınız.
+
+
+ALGORİTMA :
+
+# sinemaya mı yoksa tiyatroyamı
+# öğrenci misin (e/h)
+# eğer sinemaya ise 15tl ve öğrenci ise 7.5tl
+# eğer tiyatro ise 10tl ve öğrenci ise 5tl
+# ödemeniz gereken ücret ....

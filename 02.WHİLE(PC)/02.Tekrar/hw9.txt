@@ -1,0 +1,15 @@
+Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 
+
+
+ALGORİTMA : 
+
+total= 0 
+number= 0
+
+
+while number != 1 : 
+    desired= int(input("SAYI GİRİNİZ"))
+    total += 1
+    total += number
+ort= total / (number-1)
+print("sayıların ortalaması" , number)

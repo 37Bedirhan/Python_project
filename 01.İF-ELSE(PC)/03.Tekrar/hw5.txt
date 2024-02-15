@@ -1,0 +1,13 @@
+Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin.
+ Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; değilse
+ “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız.
+
+
+
+ALGORİTMA :
+
+# kullanıcıdan nickname iste
+# kullanıcdan şifre iste
+# eğer kullanıcı adı türkiye ve şifre 1923 ise
+# giriş başarılı
+# değil ise kullanıcı adı veya şifre yanlış

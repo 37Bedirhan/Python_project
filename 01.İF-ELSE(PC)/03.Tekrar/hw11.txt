@@ -1,0 +1,15 @@
+Üçgenler kenar uzunluklarına göre üçe ayrılmaktadır: Eşkenar, İkizkenar ve Çeşitkenar.
+Kullanıcının girdiği 3 kenar uzunluğuna göre üçgenin türünü ekrana yazdırınız.
+
+
+
+
+ALGORİTMA:
+
+# üç açı iste
+# eğer hepsi eşitse
+# eşkenar
+# eğer iki açı eşitse
+# ikizkenar
+# değilse
+# çeşitkenar

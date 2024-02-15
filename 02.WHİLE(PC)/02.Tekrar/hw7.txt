@@ -1,0 +1,16 @@
+Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız. 
+
+
+
+ALGORİTMA : 
+
+n1=int(input("Birinci sayıyı giriniz :"))
+n2=int(input("İkinci sayıyı giriniz :"))
+
+total=0
+
+while total = n1 / n2 :
+    n1 += 1
+    print(total)
+    
+

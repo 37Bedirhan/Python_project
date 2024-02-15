@@ -1,0 +1,13 @@
+Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz.
+ Girilen 3 notun ortalaması 50 ve daha büyükse
+ “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+
+
+ALGORİTMA :
+
+# 3 not iste
+# eğer ortalama 50 ve daha büyükse
+# başarılı
+# değil ise
+# başarısız

@@ -1,0 +1,8 @@
+Girilen sayının faktöriyelini bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan bir sayı iste
+# for number in (nm !)
+#   print (nm)

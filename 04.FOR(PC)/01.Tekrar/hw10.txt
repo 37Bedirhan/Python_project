@@ -1,0 +1,10 @@
+Kullanıcıdan bir ifade ve aranacak harf girmesini isteyiniz. 
+Girilen ifadede kaç tane “a” harfi olduğunu bularak ekrana yazdırınız.
+
+
+ALGORİTMA :
+# kullanıcıdan kelime girmesini iste
+# bu kelimenin içinde a harfini bul 
+# ve kaç tane a harfi varsa ekranda göster
+# yoksa 0 yazdır 
+

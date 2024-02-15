@@ -1,0 +1,7 @@
+3’ten başlayarak 41’e kadar olan sayıları 5’er arttırarak for döngüsü ile ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+for numbers in range (3,41,5)
+    print(numbers)

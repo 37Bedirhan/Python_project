@@ -1,0 +1,14 @@
+20 ile 50 arasındaki (50 dâhil) çift sayıların toplamını bulan programı while döngüsü ile yazınız.
+
+
+Algoritma :
+
+total = 0
+number = 20
+
+
+while number <= 50 :
+    total = number
+    number += 2
+    print("SAYILAR" , total)
+    

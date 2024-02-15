@@ -1,0 +1,10 @@
+Girilen iki sayı arasındaki sayıların toplamını bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan 1.sayıyı iste 
+# kullanıcıdan 2.sayıyı iste 
+
+# 1.sayıdan ve 2.sayıdan 1 artır 
+# ikisini topla 

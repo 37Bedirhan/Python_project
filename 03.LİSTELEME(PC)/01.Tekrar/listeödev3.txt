@@ -1,0 +1,2 @@
+# pi sayısının karşılığı, inç biriminin karşılığı, mikro işlemcinin kısaltması
+#kullandığım işletim sisteminin adı ve 48bitin byte olarak karşılığını yazdır

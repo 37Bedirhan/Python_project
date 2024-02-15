@@ -1,0 +1,18 @@
+Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+
+
+ALGORİTMA :
+
+# kullanıcıdan 1 sayı iste 
+# kullanıcıdan 1 sayı iste
+# kullanıcıdan 1 sayı iste
+
+# eğer sayı1 > sayı2 ve sayı3   
+# sayı1 i yazdır
+# eğer sayı2 > sayı1 ve sayı3
+# sayı2 yi yazdır 
+# eğer sayı3 > sayı1 ve sayı2
+# sayı3 ü yazdır 
+# hiçbiri değilse 
+# bu sayılar birbirine eşit 

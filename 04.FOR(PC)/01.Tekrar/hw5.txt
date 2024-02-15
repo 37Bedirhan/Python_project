@@ -1,0 +1,10 @@
+Girilen iki sayı arasındaki sayıların toplamını bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan bir sayı iste
+# kullanıcıdan bir sayı daha iste
+# for numbers in range (number1,number2 +1 ):
+# yazdır (toplam)
+

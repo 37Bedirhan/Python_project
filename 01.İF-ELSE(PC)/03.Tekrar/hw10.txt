@@ -1,0 +1,15 @@
+Bir otoparkın ücret tarifesi aşağıdaki gibidir: 1 saate kadar: 5 TL 1-5 saat arası:
+Saat başı 4 TL 5 saatten fazla: Saat başı 3 TL  Buna göre
+kullanıcının girdiği otoparkta kalınan saat süresine göre ödenecek miktarı bularak ekrana yazdırınız.
+
+
+
+ALGORİTMA:
+
+# otoparkta kalınan süre iste
+# eğer süre >=1
+# 5TL
+# eğer 1 > süre < 5
+# süre += 4
+# eğer süre > 5
+# süre += 3

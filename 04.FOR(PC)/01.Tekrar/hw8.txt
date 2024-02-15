@@ -1,0 +1,9 @@
+Elemanları sırasıyla 4, 12, 18, 33 olan sayılar ile sayilar isminde bir liste oluşturunuz.
+Listenin elemanlarını for döngüsü kullanarak toplayınız ve ekrana yazdırınız.
+
+
+ALGORİTMA :
+
+# sayılar diye bir değişken oluştur
+# oluşturduğun bu değişkenin elemanlarını 4, 12, 18, 33 diye ata
+# for döngüsüyle topla 

@@ -1,0 +1,7 @@
+1-30 arası tek sayıları for döngüsü ile ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+for tek_sayilar in range(1,31,1)
+    print(tek_sayilar)

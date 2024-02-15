@@ -1,0 +1,11 @@
+60-30 (30 dâhil değil) arasındaki çift sayıları azalan
+sırada while döngüsü ile ekrana yazdırınız.
+
+
+
+
+ALGORİTMA :
+
+# oluşturduğum 30 sayısını
+# 60 a kadar
+# çift yazdır

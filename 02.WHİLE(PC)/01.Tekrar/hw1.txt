@@ -1,0 +1,10 @@
+1-30 (30 dâhil) arasındaki tek sayıları while döngüsü ile ekrana yazdırınız.
+
+
+
+
+
+ALGORİTMA :
+
+# 1-30 arasındaki sayıları 
+# while içinde çalıştır

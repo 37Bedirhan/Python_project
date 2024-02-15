@@ -1,0 +1,12 @@
+1 ile 20 arasındaki (20 dâhil) sayıların toplamını bulan programı while döngüsü ile yazınız. 
+
+Algoritma:
+
+adas=0
+asdasd=1
+
+while asdasd <= 20
+    asdasd += adas
+    adas += 1
+    print(adas)
+    

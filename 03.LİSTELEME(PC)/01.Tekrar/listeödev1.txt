@@ -1,0 +1,2 @@
+# haftanın günlerinden bir liste oluştur 
+# ve bu listeyi ekrana yazdır

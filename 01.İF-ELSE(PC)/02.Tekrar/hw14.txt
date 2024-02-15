@@ -1,0 +1,12 @@
+ Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+
+
+
+
+ALGORİTMA :
+
+# üç sayı iste
+# eğer 1. sayı büyükse 2. sayı ve 3.sayıdan
+# göster 1 . sayı
+# eğer .

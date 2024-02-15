@@ -1,0 +1,14 @@
+Kullanıcı tarafından girilen hava sıcaklığı 5 °C ve altındaysa “Soğuk”; 6-14 °C arasındaysa 
+“Ilık”; 15 °C ve daha fazlaysa “Sıcak” çıktılarını veren kodu yazınız. 
+
+
+ALGORİTMA :
+
+weather=int(input("HAVA SİCAKLİĞİNİ GİRİNİZ(°C) :"))
+
+if weather <= 5
+    print("Soğuk")
+elif weather 6-14 
+    print("İLİK")
+elif weather >= 15
+    print("Sıcak")

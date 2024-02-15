@@ -1,0 +1,15 @@
+ Çıktısı aşağıdaki gibi olan kodu yazınız.
+PPPPPPPPPP
+YYYYYYYYYY
+TTTTTTTTTT
+HHHHHHHHHH
+OOOOOOOOOO
+NNNNNNNNNN
+
+
+ALGORİTMA :
+
+
+# p , y , t , h , o , n olan liste oluştur
+# bunun içindeki her bir harfi 10 kere yazdır
+

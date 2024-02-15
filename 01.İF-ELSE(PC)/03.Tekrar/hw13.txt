@@ -1,0 +1,18 @@
+Kullanıcıdan adını, maaşını ve çalışma yılını girmesini isteyiniz.
+0-5 yıl arası çalışanlara %10; 6-10 yıl arası çalışanlara
+,%15; 11 ve daha fazla yıl çalışanlara %25 zam yapılmaktadır. Buna göre “Sayın …………….., zamlı maaşınız …….. TL”
+çıktısı veren kodu yazınız.
+
+
+ALGORİTMA:
+
+# adını iste
+# maaşı iste
+# çalışma yılını iste
+###########################################
+# eğer 0-5 çalıştıysa
+# %10 zam
+# eğer 6-10 çalıştıysa
+# %15 zam
+# eğer 11 daha çoksa
+# %25 zam

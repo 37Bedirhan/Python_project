@@ -1,0 +1,9 @@
+Girilen iki sayının arasındaki sayıların ortalamasını bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan bir sayı iste
+# kullanıcıdan bir sayı daha iste 
+# for nummbers in range(number1,number2 /2):
+# print (total)

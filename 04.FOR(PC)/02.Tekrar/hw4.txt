@@ -1,0 +1,7 @@
+50’den 20’ye kadar olan sayıları 3’er azaltarak for döngüsü ile ekrana yazdırınız.
+
+
+ALGORİTMA :
+
+for n in range(50,20,-3) :
+    print(n)

@@ -1,0 +1,13 @@
+Girilen sayı hem 3 hem de 5’e tam bölünüyorsa “15’e tam bölünür.”;
+bölünmüyorsa “15’e tam bölünmez.” çıktıları veren kodu yazınız.
+
+
+
+
+
+ALGORİTMA :
+
+# tam sayı iste 
+# eğer sayı %3 ve %5
+# 15 e tam bölünür 
+# değil ise 15 e tam böünmez 

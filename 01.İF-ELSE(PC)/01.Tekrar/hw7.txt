@@ -1,0 +1,13 @@
+ Bir programın bilgisayara kurulması için i7 işlemci ya da en az 8 GB RAM belleğe ihtiyaç duyulmaktadır.
+  Şartlar sağlanıyorsa “Kurulum uygun”; sağlanmıyorsa “Kurulum uygun değil” çıktıları veren programı yazınız.
+
+
+  ALGORİTMA :
+  
+  işlemci=int(input("İŞLEMCİNİZİ GİRİNİZ :"))
+  ram=int(input("RAM GİRİNİZ(GB) :"))
+  if (işlemci>= i7 and ram>=8):
+    print ("KURULUM UYGUN")
+else:
+print ("KURULUM UYGUN DEĞİL")
+

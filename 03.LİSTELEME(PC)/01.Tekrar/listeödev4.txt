@@ -1,0 +1,2 @@
+#pazartesiden cumartesiye kadar olan günleri yaz(haftaiçi)
+#ve indeksi 4 olan elemanı yazdır

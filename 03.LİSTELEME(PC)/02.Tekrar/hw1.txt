@@ -1,0 +1,10 @@
+Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız.
+
+
+
+
+
+ALGORİTMA :
+
+# günleri oluştur
+# yazdır

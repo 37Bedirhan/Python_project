@@ -1,0 +1,17 @@
+Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız. 
+
+
+ALGORİTMA :
+
+n1=int(input(" Birinci sayıyı giriniz" :))
+n2=int(input(" İkinci sayıyı giriniz" :))
+
+total= 0
+if= n1
+
+while + if
+total = total+ if
+print (total)
+
+
+

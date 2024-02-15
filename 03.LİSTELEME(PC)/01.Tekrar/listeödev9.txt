@@ -1,0 +1,26 @@
+#sayılar=[  35,26,81,64]
+# yenisayılar=sayılar.copy()
+#ondalikli_sayılar=(1.4,6.8)
+
+# sayılar.sort  (reverse=true)
+#print(sayılar)
+
+#yenisayılar=sayılar.reverse()
+# print(yenisayılar)
+
+#say=yenisayılar.count("26")
+#print(say)
+
+#yenisayılar.remove("81")
+#print(yenisayılar)
+
+#yenisayılar.clear
+#print(yenisayılar)
+
+#print(yenisayılar.index("64"))
+
+#ondalikli_sayılar.extend()
+#print(ondalikli_sayılar)
+
+
+

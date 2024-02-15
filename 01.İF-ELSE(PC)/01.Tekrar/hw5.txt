@@ -1,0 +1,14 @@
+Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; 
+değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız. 
+
+
+ALGORİTMA : 
+
+nickname=(input("Kullanıcı adınızı giriniz"))
+password =(input("Şifrenizi giriniz"))
+
+if nickname == "Türkiye" password == "1923"
+    print("Giriş başarili")
+else:
+    print("Kullanici adi veya sifre yanlis")
+

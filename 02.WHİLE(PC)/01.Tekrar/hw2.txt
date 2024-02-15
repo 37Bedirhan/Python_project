@@ -1,0 +1,8 @@
+60-30 (30 dâhil değil) arasındaki çift sayıları azalan sırada while döngüsü ile ekrana yazdırınız. 
+
+
+
+
+
+# 60-30 arasındaki sayıyı
+# değişken 2artır

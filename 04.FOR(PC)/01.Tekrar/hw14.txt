@@ -1,0 +1,13 @@
+Random metodu ile 0-20 arası bir sayı seçerek kullanıcının bu sayıyı tahmin etmesini isteyiniz.
+ Kullanıcının tahminine göre arttır ve azalt şeklinde uyarılar verdirerek doğru sonuca ulaşılmasını sağlayınız.
+
+ ALGORİTMA :
+
+# random kütüphanesine ulaş 
+# 0 ile 20 arası kendin bir sayı seç 
+# sayıları 0 ile 20 arasında kısıtla
+# kullanıcıdan 0 ile 20 sayısını tahmin etmesini iste 
+# eğer girdiği sayı fazlaysa azaltın
+# eğer girdiği sayı azsa arttırın
+# doğru girdiği an ("sayınız doğru") yanıtını ver 
+

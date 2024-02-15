@@ -1,0 +1,13 @@
+Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse 
+“Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+
+ALGORİTMA :
+Not1 = int(input("Birnci notunuzu giriniz :"))
+Not2 = int(input("Ikinci notunuzu giriniz :"))
+performans = int(input("performans notunuzu giriniz :"))
+ortalaması= (Not1 + Not2 + performans)/3
+if ortalama >= 50:
+print ("Başarılı")
+else:
+print("“Başarısız”)

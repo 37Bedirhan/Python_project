@@ -1,0 +1,6 @@
+En sevdiğiniz 3 meyveyi liste hâline getirerek ekrana yazdırınız.
+
+
+
+# üç meyveyi oluştur
+# yazdır

@@ -1,0 +1,11 @@
+Girilen sayı hem 3 hem de 5’e tam bölünüyorsa “15’e tam bölünür.”; bölünmüyorsa “15’e tam bölünmez.”
+ çıktıları veren kodu yazınız.
+
+
+ALGORİTMA :
+
+number=int(input("SAYİ GİRİNİZ"))
+if number%3==0 and number%5==0:
+    print ("15'e tam bölünür")
+else:
+print ("15'e tam bölünemez")

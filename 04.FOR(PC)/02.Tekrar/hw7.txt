@@ -1,0 +1,8 @@
+Girilen sayının faktöriyelini bularak ekrana yazdırınız. 
+
+
+ALGORİTMA :
+
+# kullanıcıdan sayı iste 
+# değeri 1 olan bir değişken oluştur 
+# girdiğin değer * girilen sayı +1

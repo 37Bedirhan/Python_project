@@ -1,0 +1,2 @@
+5. Ödevde şöyle yapabilirsiniz
+print("çıktı şöyle olacak")

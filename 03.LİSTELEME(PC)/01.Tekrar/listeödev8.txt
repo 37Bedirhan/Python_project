@@ -1,0 +1,10 @@
+#ders diye bir değişken oluştur
+#ders değişkenini (B,İ,L,İ,Ş,İ,M) yap ve bunları
+
+#a-Listeyi alfabetik olarak sıralayınız. 
+#b-Listeyi tersten yazdırınız. 
+#c-Gerekli harfleri silerek listeyi B,İ,L,İ,M hâline getiriniz. 
+#d-ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız. 
+#e-Listenin tüm elemanlarını siliniz. 
+#f-L elemanının indeksini bulunuz. 
+

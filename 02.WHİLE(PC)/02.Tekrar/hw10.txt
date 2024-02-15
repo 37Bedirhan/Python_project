@@ -1,0 +1,18 @@
+Girilen şifre “Python” olana kadar “Tekrar deneyiniz” uyarısı veren, “Python” girildiğinde 
+“Giriş başarılı” uyarısı veren kodu yazınız.
+
+
+ALGORİTMA : 
+1- Kullanıcıdan bir şifre almak için istek atalım.
+2- Alınan şifreyi Python olarak karşılaştıralım.
+3- Eşitse "Giriş Başarılı" uyarısı verelim ve program sona erdirelim
+4- Uygunsuzsa "Tekrar Deneyiniz" uyarısı verelim ve tekrar
+kullanıcıya şifre girmelerini isteyelim
+"""
+#Kod bloğu
+while True:
+password = input("Lütfen Şifrenizi Giriniz: ")
+if password == 'python':
+print('Giriş Başarılı')
+else:
+print('Tekrar Deneyiniz')
